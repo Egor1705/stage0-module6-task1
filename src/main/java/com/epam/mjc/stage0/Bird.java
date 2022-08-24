@@ -11,11 +11,11 @@ public class Bird  extends Animal{
     }
     public Bird(String color, int numberOfPaws, boolean hasFur) {
         super("blue", 2, false);
-//        this.color = color;
-//        this.hasFur = hasFur;
-//        this.numberOfPaws = numberOfPaws;
+
 
     }
+
+
 
     @Override
     public String getDescription() {
